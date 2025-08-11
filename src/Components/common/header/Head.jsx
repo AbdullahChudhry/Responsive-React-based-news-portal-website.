@@ -6,10 +6,10 @@ export default function Head() {
             <section className='head'>
                 <div className="container flexSB paddingSB">
                     <div className="logo">
-                        <img src="/public/logo.png" alt="" />
+                        <img src="/logo.png" alt="" />
                     </div>
                     <div className="ad">
-                        <img src="/public/headerb.png" alt="" />
+                        <img src="/headerb.png" alt="" />
                     </div>
                 </div>
             </section>

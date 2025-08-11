@@ -1,6 +1,6 @@
 import React from 'react'
-import Heading from '../../../heading/Heading'
-import { popular } from '../../../../../dummyData'
+import Heading from '../../../../heading/Heading'
+import { popular } from '../../../../../../dummyData'
 import "./popular.css"
 import Slider from "react-slick"
 import "slick-carousel/slick/slick.css"
